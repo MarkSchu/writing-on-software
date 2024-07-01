@@ -1,6 +1,7 @@
 [
     {
         "name": "Reading a <i>Philosophy of Software Design</i> - Chapter 1 - The Fundamental Problem",
-        "url": "reading-a-philosophy-of-software-design/chapter-1/fundamental-problem/post.html"
+        "path": "reading-a-philosophy-of-software-design/chapter-1/fundamental-problem/post.html",
+        "slug": "posts/reading-a-philosophy-of-software-design/chapter-1/fundamental-problem"
     }
 ]
