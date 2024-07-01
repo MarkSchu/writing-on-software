@@ -1,7 +1,10 @@
 [
     {
-        "name": "Reading a <i>Philosophy of Software Design</i> - Chapter 1 - The Fundamental Problem",
-        "path": "reading-a-philosophy-of-software-design/chapter-1/fundamental-problem/post.html",
-        "slug": "reading-a-philosophy-of-software-design/chapter-1/fundamental-problem"
+        "name": "Reading a <i>Philosophy of Software Design</i> - Preface - The Fundamental Problem of Software Design",
+        "slug": "reading-a-philosophy-of-software-design/preface/fundamental-problem-of-software-design"
+    },
+    {
+        "name": "Reading a <i>Philosophy of Software Design</i> - Chapter 1 - Understanding, Change, Complexity",
+        "slug": "reading-a-philosophy-of-software-design/chapter-1/understanding-change-complexity"
     }
 ]
