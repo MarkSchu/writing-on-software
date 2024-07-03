@@ -6,5 +6,9 @@
     {
         "name": "Reading a <i>Philosophy of Software Design</i> - Chapter 1 - Understanding, Change, Complexity",
         "slug": "reading-a-philosophy-of-software-design/chapter-1/understanding-change-complexity"
+    },
+    {
+        "name": "Reading a <i>Philosophy of Software Design</i> - Chapter 1 - Three Symptoms of Complex Systems",
+        "slug": "reading-a-philosophy-of-software-design/chapter-2/three-symptoms-of-complex-systems"
     }
 ]
