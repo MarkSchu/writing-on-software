@@ -1,0 +1,12 @@
+(1) There are consumers and providers. 
+
+(2) The main problem with software is that systems are too big to understand. https://www.youtube.com/watch?v=v_nhv6aY1Kg&t=42s
+
+(3) You might ask two questions: 
+1. what is a system 
+2. what does it mean for a person to understand a system? 
+
+(4) Tensengrity. A system held together by the balance of opposing forces. Remove one and the whole thing collapses.https://www.youtube.com/watch?v=esm-1QXtA2Q
+
+(5) Coupling may just be interconnection: I change you, you change me.  Decoupled modules then, are modules that can change without the other changing. However, with modules there are always consumers. And if something is consuming a module, then it is coupled. The existence of a method call - module.foo() - and even an import statement is a consumption. 
+
