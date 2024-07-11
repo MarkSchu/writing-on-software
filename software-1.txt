@@ -10,3 +10,7 @@
 
 (5) Coupling may just be interconnection: I change you, you change me.  Decoupled modules then, are modules that can change without the other changing. However, with modules there are always consumers. And if something is consuming a module, then it is coupled. The existence of a method call - module.foo() - and even an import statement is a consumption. 
 
+(6) Why can't you fully plan out a system? Think about a different system: my garden. Why can't I fully plan out my garden? Because I don't know what's going to to work. I can plant this here and that there, but they might die, or they might grow in a way I didn't intend. At bottom, there are unknowns. I don't know what is going to happen. And many of those are unknown unknowns. 
+
+Another way to look at it is this: there are too many possibilities and many possibilities that you're not aware of. In so far as planning plans against what might happen, its hopeless. 
+
