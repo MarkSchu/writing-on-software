@@ -21,6 +21,11 @@
     },
     {
         "title": "Reading <i>A Philosophy of Software Design</i> / Chapter 2",
+        "subtitle": "Reflection - Unknown Unknowns as Possibilities",
+        "slug": "/reading/a-philosophy-of-software-design/chapter-2/unknown-unknowns-as-possibilities"
+    },
+    {
+        "title": "Reading <i>A Philosophy of Software Design</i> / Chapter 2",
         "subtitle": "Explanation - Two Causes of Complexity, Dependencies",
         "slug": "/reading/a-philosophy-of-software-design/chapter-2/two-causes-of-complexity-dependencies"
     }
