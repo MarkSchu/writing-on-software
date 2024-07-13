@@ -1,0 +1,60 @@
+api
+state
+editpage
+
+degrees of freedom 
+	the ways a system can "move"
+	what's movement in software? 
+
+coupling 
+- determines the degrees of freedom of system; determines the ways a system can move 
+- enables certain movements
+- inhibits certain movements
+- connects effects
+
+operational
+- consumer can't run without provider
+
+(I guess, if I think about this, a consumer is like the thigh moving the bottom part of the leg. It is moving the bottom leg. Similarly, a react component calling the methods of an api - get, post, update, etc - is a consumer calling a provider and making things move. Movement just means the code is doing stuff. )
+
+Maybe you can think about a stack trace as an output of a system. Each possible stack trace is a point in a degree of freedom. 
+
+developmental
+- you can't change one module without changing the other
+
+(For instance, suppose you have api.create({name}) which eventuates with sql.create({name}). However, you decide you want to use firstName. Then you have to coordinate the change.)
+
+	
+semantic
+-  same concept is represented in more than one place, but then someone changes the concept.
+- concepts are bundles of attributes, but are reified.  
+
+(For instance, Person is represented all over, but then that concept is changed to Customer. )
+
+functional
+- several components have similar responsibilities and therefore similar code
+
+incidental
+- things break for no good reason 
+
+---
+
+semantic polymer
+on the criteria to be used in decomposing systems into modules 
+hide decisions in modules
+more interfaces, less composable
+more datatypes, less composable
+orthogonality in software 
+- separate concerns
+- high cohesion in module/component
+- low coupling between module/component
+- little overlap between modules
+- hide information and decisions
+
+rotate your perspective 
+- when looking at components, think about modules
+- when looking at modules, think about components 
+- when looking at data, think about code
+- when looking at code, think about data
+
+concept leakage

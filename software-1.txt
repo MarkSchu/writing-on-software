@@ -14,3 +14,18 @@
 
 Another way to look at it is this: there are too many possibilities and many possibilities that you're not aware of. In so far as planning plans against what might happen, its hopeless. 
 
+(7) There are consumers and providers. Consumers have expectations. Providers have implementations. 
+
+(8) Software is a set of decisions. If a single design change requires multiple implementation changes, then you've made the same decision multiple times in the code. 
+
+(9) Suppose you have a website wtih 5 pages. Part of you wants to make the pages different colors and part of you wants to make them the same color. Three strategies: 
+
+  1. hardcode 5 style sheets 
+  2. hardcode a single style sheet
+  3. use a variable in 5 style sheets that reference a 6th sheet. 
+
+The third options allows for the two kinds of changes. If you want to change all of the page colors at the same time, you change the variable. If you want to give each it's own color, you stop using a varible. 
+
+(10) There are two kinds of consumer: a consumer that you own and a consumer that someone else owns (third party library).
+
+(11) Description of the problem (design & requirements) => decomposition => implementation. 

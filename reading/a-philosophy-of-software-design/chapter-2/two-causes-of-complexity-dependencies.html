@@ -40,3 +40,6 @@
   For instance, in the above example, the <code>customer</code> module depends on the <code>api</code> module with respect to its modifications. If <code>post</code> is removed or changed, then that will break the <code>customer</code> module.
 </p>
 
+<p>
+  Dependencies lead to increased change amplification and higher cogntive load. On the one hand, if 10 modules consume a provider module, and therefore depend upon it, then changes in the provider module may require changes in the 10 consuming modules; i.e more change amplification. On the other hand, if a module uses 10 other modules in its implementation, then that increases the cognitive load of understanding how that module works. 
+</p>
