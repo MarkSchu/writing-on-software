@@ -1,4 +1,0 @@
-APIs as affordances
-what you can do and will do with a module 
-problem vs solution vs implementation 
-is a problem decomposition a solution?

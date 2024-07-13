@@ -3,8 +3,9 @@
 (2) The main problem with software is that systems are too big to understand. https://www.youtube.com/watch?v=v_nhv6aY1Kg&t=42s
 
 (3) You might ask two questions: 
-1. what is a system 
-2. what does it mean for a person to understand a system? 
+
+  1. what is a system 
+  2. what does it mean for a person to understand a system? 
 
 (4) Tensengrity. A system held together by the balance of opposing forces. Remove one and the whole thing collapses.https://www.youtube.com/watch?v=esm-1QXtA2Q
 
@@ -29,3 +30,11 @@ The third options allows for the two kinds of changes. If you want to change all
 (10) There are two kinds of consumer: a consumer that you own and a consumer that someone else owns (third party library).
 
 (11) Description of the problem (design & requirements) => decomposition => implementation. 
+
+(12) Is this the progression? 
+
+  user story/problem
+  problem decomposition into subtasks
+  modules who are responsible for sub tasks 
+  requirements of modules
+  implementation against requirements
