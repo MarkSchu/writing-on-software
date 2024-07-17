@@ -1,42 +1,42 @@
 [
     {
         "title": "Reading <i>A Philosophy of Software Design</i> / Preface",
-        "subtitle": "Explanation - The Fundamental Problem of Software Design",
+        "subtitle": "The Fundamental Problem of Software Design",
         "slug": "/reading/a-philosophy-of-software-design/preface/fundamental-problem-of-software-design"
     },
     {
         "title": "Reading <i>A Philosophy of Software Design</i> / Chapter 1",
-        "subtitle": "Explanation - Understanding, Change, Complexity",
+        "subtitle": "Understanding, Change, Complexity",
         "slug": "/reading/a-philosophy-of-software-design/chapter-1/understanding-change-complexity"
     },
     {
         "title": "Reading <i>A Philosophy of Software Design</i> / Chapter 2",
-        "subtitle": "Explanation - Three Symptoms of Complex Systems",
+        "subtitle": "Three Symptoms of Complex Systems",
         "slug": "/reading/a-philosophy-of-software-design/chapter-2/three-symptoms-of-complex-systems"
     },
     {
         "title": "Reading <i>A Philosophy of Software Design</i> / Chapter 2",
-        "subtitle": "Reflection - Unknown Unknowns as Questions",
+        "subtitle": "Unknown Unknowns as Questions",
         "slug": "/reading/a-philosophy-of-software-design/chapter-2/unknown-unknowns-as-questions"
     },
     {
         "title": "Reading <i>A Philosophy of Software Design</i> / Chapter 2",
-        "subtitle": "Reflection - Unknown Unknowns as Possibilities",
+        "subtitle": "Unknown Unknowns as Possibilities",
         "slug": "/reading/a-philosophy-of-software-design/chapter-2/unknown-unknowns-as-possibilities"
     },
     {
         "title": "Reading <i>A Philosophy of Software Design</i> / Chapter 2",
-        "subtitle": "Explanation - Two Causes of Complexity, Dependencies",
+        "subtitle": "Two Causes of Complexity, Dependencies",
         "slug": "/reading/a-philosophy-of-software-design/chapter-2/two-causes-of-complexity-dependencies"
     },
     {
         "title": "Reading <i>A Philosophy of Software Design</i> / Chapter 2",
-        "subtitle": "Explanation - Two Causes of Complexity, Obscurity",
+        "subtitle": "Two Causes of Complexity, Obscurity",
         "slug": "/reading/a-philosophy-of-software-design/chapter-2/two-causes-of-complexity-obscurity"
     },
     {
         "title": "Reading <i>A Philosophy of Software Design</i> / Chapter 4",
-        "subtitle": "Explanation - Four Basic Concepts",
+        "subtitle": "Four Basic Concepts",
         "slug": "/reading/a-philosophy-of-software-design/chapter-4/four-basic-concepts"
     }
 ]
