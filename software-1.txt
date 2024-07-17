@@ -38,3 +38,31 @@ The third options allows for the two kinds of changes. If you want to change all
   modules who are responsible for sub tasks 
   requirements of modules
   implementation against requirements
+
+(12) There are consumers and providers. The provider has methods with signatures - foo(str: String, n: Number) - and the consumer invokes those methods. The provider may also have values (variables/constants). A consumer refers to those values. So, in short, a consumer connects to a provider in two tways: 
+
+  1. invocation
+  2. reference 
+
+(13) How can you count dependencies? I can think of 3 ways: 
+
+  1. number of modules referenced 
+  2. number of methods/values referened 
+  3. number of references to method/value
+
+So, the least dependent module possible that is still dependent references a single method/value on a single module, once.
+
+(14) A consuming module always references/consumes another module in its implementation. The closest a reference can get to the interface is as a parameter type in one of its methods.
+
+(15) An module has two external complexities: the complexity of the interface and the complexity of understanding the module's responsbility. 
+
+(16) What's the difference between a module with lots of methods and a function with lots of paramters?
+
+(17) Here's a problem. You have a type interface that's referenced, property for property, in multiple places. If you add or remove those properties, you have to modify every reference to it. 
+
+(18) A computer has 2 possible tasks: storage, transformation. And a computer works like this:
+
+  start with an idea 
+  formalize the idea into a representaiton
+  store or transform the representation 
+  decode the representation back into an idea 
