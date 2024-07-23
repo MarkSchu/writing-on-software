@@ -1,0 +1,48 @@
+{
+  "notes": [
+    {
+      "title": "A Philosophy of Software Design",
+      "author": "John Ousterhout",
+      "slug": "a-philosophy-of-software-advice",
+      "posts": [
+        {
+          "title": "The Fundamental Problem of Software Design",
+          "slug": "preface/fundamental-problem-of-software-design"
+        },
+        {
+            "title": "Understanding, Change, Complexity",
+            "slug": "chapter-1/understanding-change-complexity"
+        },
+        {
+            "title": "Three Symptoms of Complex Systems",
+            "slug": "chapter-2/three-symptoms-of-complex-systems"
+        },
+        {
+            "title": "Unknown Unknowns as Questions",
+            "slug": "chapter-2/unknown-unknowns-as-questions"
+        },
+        {
+            "title": "Unknown Unknowns as Possibilities",
+            "slug": "chapter-2/unknown-unknowns-as-possibilities"
+        },
+        {
+            "title": "Two Causes of Complexity, Dependencies",
+            "slug": "chapter-2/two-causes-of-complexity-dependencies"
+        },
+        {
+            "title": "Two Causes of Complexity, Obscurity",
+            "slug": "chapter-2/two-causes-of-complexity-obscurity"
+        },
+        {
+            "title": "Four Basic Concepts",
+            "slug": "chapter-4/four-basic-concepts"
+        },
+        {
+            "title": "Domain, Problem, and Requirements Knowledge",
+            "slug": "chapter-4/domain-problem-and-requirements-knowledge"
+        }
+      ]
+    }
+  ],
+  "posts": []
+}
