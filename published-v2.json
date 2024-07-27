@@ -6,39 +6,39 @@
       "slug": "a-philosophy-of-software-design",
       "posts": [
         {
-          "title": "The Fundamental Problem of Software Design",
+          "title": "Preface - The Fundamental Problem of Software Design",
           "slug": "preface/fundamental-problem-of-software-design"
         },
         {
-            "title": "Understanding, Change, Complexity",
+            "title": "Chapter 1 - Understanding, Change, Complexity",
             "slug": "chapter-1/understanding-change-complexity"
         },
         {
-            "title": "Three Symptoms of Complex Systems",
+            "title": "Chapter 2 - Three Symptoms of Complex Systems",
             "slug": "chapter-2/three-symptoms-of-complex-systems"
         },
         {
-            "title": "Unknown Unknowns as Questions",
+            "title": "Chapter 2 - Unknown Unknowns as Questions",
             "slug": "chapter-2/unknown-unknowns-as-questions"
         },
         {
-            "title": "Unknown Unknowns as Possibilities",
+            "title": "Chapter 2 - Unknown Unknowns as Possibilities",
             "slug": "chapter-2/unknown-unknowns-as-possibilities"
         },
         {
-            "title": "Two Causes of Complexity, Dependencies",
+            "title": "Chapter 2 - Two Causes of Complexity, Dependencies",
             "slug": "chapter-2/two-causes-of-complexity-dependencies"
         },
         {
-            "title": "Two Causes of Complexity, Obscurity",
+            "title": "Chapter 2 - Two Causes of Complexity, Obscurity",
             "slug": "chapter-2/two-causes-of-complexity-obscurity"
         },
         {
-            "title": "Four Basic Concepts",
+            "title": "Chapter 4 - Four Basic Concepts",
             "slug": "chapter-4/four-basic-concepts"
         },
         {
-            "title": "Domain, Problem, and Requirements Knowledge",
+            "title": "Chapter 4 - Domain, Problem, and Requirements Knowledge",
             "slug": "chapter-4/domain-problem-and-requirements-knowledge"
         }
       ]
