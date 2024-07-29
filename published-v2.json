@@ -10,37 +10,41 @@
           "slug": "preface/fundamental-problem-of-software-design"
         },
         {
-            "title": "Chapter 1 - Understanding, Change, Complexity",
-            "slug": "chapter-1/understanding-change-complexity"
+          "title": "Chapter 1 - Understanding, Change, Complexity",
+          "slug": "chapter-1/understanding-change-complexity"
         },
         {
-            "title": "Chapter 2 - Three Symptoms of Complex Systems",
-            "slug": "chapter-2/three-symptoms-of-complex-systems"
+          "title": "Chapter 2 - Three Symptoms of Complex Systems",
+          "slug": "chapter-2/three-symptoms-of-complex-systems"
         },
         {
-            "title": "Chapter 2 - Unknown Unknowns as Questions",
-            "slug": "chapter-2/unknown-unknowns-as-questions"
+          "title": "Chapter 2 - Unknown Unknowns as Questions",
+          "slug": "chapter-2/unknown-unknowns-as-questions"
         },
         {
-            "title": "Chapter 2 - Unknown Unknowns as Possibilities",
-            "slug": "chapter-2/unknown-unknowns-as-possibilities"
+          "title": "Chapter 2 - Unknown Unknowns as Possibilities",
+          "slug": "chapter-2/unknown-unknowns-as-possibilities"
         },
         {
-            "title": "Chapter 2 - Two Causes of Complexity, Dependencies",
-            "slug": "chapter-2/two-causes-of-complexity-dependencies"
+          "title": "Chapter 2 - Two Causes of Complexity, Dependencies",
+          "slug": "chapter-2/two-causes-of-complexity-dependencies"
         },
         {
-            "title": "Chapter 2 - Two Causes of Complexity, Obscurity",
-            "slug": "chapter-2/two-causes-of-complexity-obscurity"
+          "title": "Chapter 2 - Two Causes of Complexity, Obscurity",
+          "slug": "chapter-2/two-causes-of-complexity-obscurity"
         },
         {
-            "title": "Chapter 4 - Four Basic Concepts",
-            "slug": "chapter-4/four-basic-concepts"
+          "title": "Chapter 4 - Four Basic Concepts",
+          "slug": "chapter-4/four-basic-concepts"
         },
         {
-            "title": "Chapter 4 - Domain, Problem, and Requirements Knowledge",
-            "slug": "chapter-4/domain-problem-and-requirements-knowledge"
-        }
+          "title": "Chapter 4 - Domain, Problem, and Requirements Knowledge",
+          "slug": "chapter-4/domain-problem-and-requirements-knowledge"
+        },
+        {
+          "title": "Chapter 4 - Modules Should be Deep: An Example",
+          "slug": "chapter-4/modules-should-be-deep-example.md"
+      }
       ]
     }
   ],
