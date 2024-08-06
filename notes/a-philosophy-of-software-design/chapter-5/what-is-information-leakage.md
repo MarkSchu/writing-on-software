@@ -1,0 +1,7 @@
+When you write a module, the module has an interface and an implementation. The implementation is what makes the interface work. And to make the implementation, you have to make a series of implementation decisions. For example, in order to work as expected, the module might store data as a CSV, create a connection to a database, or use a particular type schema. 
+
+Different parts of the codebase, both inside and outside the module, can and will reflect those decisions. There are parts of the codebase, for instance, that will reflect the fact that you're using CSVs to store information. When your system retrieves the information, it will have to know it is in CSV form. If you make a different decision, then the parts that reflect that decision need to reflect the difference. Because of this, reflection is coupling.  
+
+When design decisions are reflected outside of a module, then those decisions are said to “leak out.” That creates coupling <i>across </i> modules (as opposed to inside a module). The other modules that reflect the decision will break if the design decision is changed. Ousterhout calls this <b>Information Leakage</b>.
+
+Information Leakage is not intrinsically bad. In fact, it's inevitable. A module’s interface intentionally leaks design decisions in the form of expected input and output. However, because information leakage creates coupling and coupling creates change amplification, it should be avoided as much as possible.
