@@ -46,8 +46,12 @@
           "slug": "chapter-4/modules-should-be-deep-example"
         },
         {
-          "title": "Chapter 5 - What is Information Leakage",
+          "title": "Chapter 5 - What is Information Leakage?",
           "slug": "chapter-5/what-is-information-leakage"
+        },
+        {
+          "title": "Chapter 5 - Temporal Decomposition and Problem Decomposition",
+          "slug": "chapter-5/temporal-decomposition-and-problem-decomposition"
         }
       ]
     }
