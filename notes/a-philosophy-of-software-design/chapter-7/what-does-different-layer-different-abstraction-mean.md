@@ -16,11 +16,11 @@ This describes layers as modules that invoke the types, methods, and properties 
     return el;
 ```
 
-`CreatePostButton ` is a layer above the DOM API. Indeed, you can imagine a whole design system of components created with the DOM API. The design system would be the layer above the DOM API. 
+`CreatePostButton` is a layer above the DOM API. Indeed, you can imagine a whole design system of components created with the DOM API. The design system would be the layer above the DOM API. 
 
 Second, what is an abstraction? Earlier in the book, Ousterhout characterizes an abstraction as, “a simplified view of something.”I think that there are probably multiple, overlapping forms of abstraction. In the case of layers, I think we’re dealing with two. I’m going to call them formal abstraction and conceptual abstraction. And both are forms of composition, where you combine many things to create one thing. The one thing is a simplified view of the many things. 
 
-Formal abstraction is, more or less, combining code - function calls and properties - into a single block that runs as once. For instance, `CreatePostButton` combines references to different functions and properties and hides them behind the name `CreatePostButton `. This is called “Formal” because we don’t actually need to know what the code means. It’s purely mechanical. It’s just composing functional calls. It’s symbolic. We don’t have to understand it. 
+Formal abstraction is, more or less, combining code - function calls and properties - into a single block that runs as once. For instance, `CreatePostButton` combines references to different functions and properties and hides them behind the name `CreatePostButton`. This is called “Formal” because we don’t actually need to know what the code means. It’s purely mechanical. It’s just composing functional calls. It’s symbolic. We don’t have to understand it. 
 
 The second kind, conceptual abstraction, is the composition of meanings into a larger meaning. For instance, a molecule is a collection of atoms held together by atomic bonds. The concept molecule is a composition of the concepts atom, bond, held together, etc. 
 
